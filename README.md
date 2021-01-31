@@ -1,4 +1,6 @@
-### ~~Hello there little hobbits!~~ I mean, uhh, hello prospective collaborator / recruiter / hiring manager / seeker of the One Ring.
+### ~~Hello there little hobbits!~~ 
+
+## I mean, uhh, hello prospective collaborator / recruiter / hiring manager / seeker of the One Ring.
 
 # About Me
 
