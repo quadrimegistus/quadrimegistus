@@ -6,7 +6,7 @@ My name is Wesley Hatley, but I go by Wes.
 
 I'm a jack of all trades with software engineering. I primarily write server side code with Node, Java with Spring Boot, and Ruby on Rails. In addition, I also work some front end, mostly with React, and to a lesser extent with Vue, Angular and jQuery.
 
-Like my repositories, but want to see some high level architecting? Check this [Repository](https://github.com/parallelam/ArchitectPortfolio) or [Google Drive](https://drive.google.com/drive/folders/1RwszXnoVjbXo6oje_YAMoC6-HKbxRHim?usp=sharing).
+Like my repositories, but want to see more high level application/database architecting? Check out this [Repository](https://github.com/parallelam/ArchitectPortfolio) or this [Google Drive](https://drive.google.com/drive/folders/1RwszXnoVjbXo6oje_YAMoC6-HKbxRHim?usp=sharing).
 
 Want to hire me to work on your project? Extend a contract to me through my [UpWork](https://www.upwork.com/fl/weshatley).
 
