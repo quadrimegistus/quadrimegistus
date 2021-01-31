@@ -1,8 +1,8 @@
-### ~~Hello there little hobbits!~~ 
+# ~~Hello there little hobbits!~~ 
 
 ## I mean, uhh, hello prospective collaborator / hiring manager / seeker of the One Ring.
 
-# About Me
+### About Me
 
 My name is Wesley Hatley, but I go by Wes.
 
