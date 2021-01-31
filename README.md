@@ -14,7 +14,7 @@ Want to hire me to work on your project? Extend a contract to me through my [UpW
 
 Want to chat about the insanity of quantum mechanics, quantum computing, quantum cryptography and the Q# language? DM me on [LinkedIn](https://www.linkedin.com/in/wesley-hatley/).
 
-Just want some advice or a minimalist consultation? Shoot me an [email](mailto:weshatley@gmail.com?subject=[GitHub]) with the particulars.
+Just want some advice or a minimalist consultation? Shoot me an [email](mailto:weshatley@gmail.com?subject=[GitHub%20Message]) with the particulars.
 
 ![](https://github-readme-stats.vercel.app/api?username=parallelam&show_icons=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parallelam&layout=compact)
 
