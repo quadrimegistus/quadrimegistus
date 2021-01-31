@@ -2,8 +2,6 @@
 
 ## I mean, uhh, hello prospective collaborator / hiring manager / seeker of the One Ring.
 
-### About Me
-
 My name is Wesley Hatley, but I go by Wes.
 
 I'm a jack of all trades with software engineering. I primarily write server side code with Node, Java with Spring Boot, and Ruby on Rails. In addition, I also work some front end, mostly with React, and to a lesser extent with Vue, Angular and jQuery.
