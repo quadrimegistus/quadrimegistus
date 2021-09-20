@@ -1,14 +1,14 @@
 # ~~Hello there little hobbits!~~ 
 
-## I mean, uhh, hello prospective collaborator / hiring manager / seeker of the One Ring.
+## I mean, uhh, hello prospective collaborator / contract maker / seeker of the One Ring.
 
-My name is Wesley Hatley, but I go by Wes.
+My name is Wesley Hatley, but I go by Wes. I'm the owner of 2DSE, a for hire software engineering firm. Find us on LinkedIn.
 
-I'm a jack of all trades with software engineering. I primarily write server side code with Node, Java with Spring Boot, and Ruby on Rails. In addition, I also work some front end, mostly with React, and to a lesser extent with Vue, Angular and jQuery.
+We're a jack of all trades with software engineering. We primarily write server side code with Node, Java with Spring Boot, and Ruby on Rails. In addition, we also work front end, mostly with React, and to a lesser extent with Vue, Angular and jQuery.
 
-Like my repositories, but want to see more high level application/database architecting? Check out this [Repository](https://github.com/parallelam/ArchitectPortfolio) or this [Google Drive](https://drive.google.com/drive/folders/1RwszXnoVjbXo6oje_YAMoC6-HKbxRHim?usp=sharing).
+Like the repositories, but want to see more high level application/database architecting? Check out this [Repository](https://github.com/parallelam/ArchitectPortfolio) or this [Google Drive](https://drive.google.com/drive/folders/1RwszXnoVjbXo6oje_YAMoC6-HKbxRHim?usp=sharing).
 
-Want to hire me to work on your project? Extend a contract to me through my [UpWork](https://www.upwork.com/fl/weshatley) or [Guru](https://www.guru.com/freelancers/wesley-hatley).
+Want to hire us to work on your project? Extend a contract through [UpWork](https://www.upwork.com/fl/weshatley) or [Guru](https://www.guru.com/freelancers/wesley-hatley).
 
 Want to chat about the insanity of quantum mechanics, quantum computing, quantum cryptography and the Q# language? DM me on [LinkedIn](https://www.linkedin.com/in/wesley-hatley/).
 
