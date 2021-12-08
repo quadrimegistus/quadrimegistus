@@ -14,7 +14,7 @@ Want to chat about the insanity of quantum mechanics, quantum computing, quantum
 
 Just want some advice or a minimalist consultation? Shoot me an [email](mailto:weshatley@gmail.com?subject=[GitHub%20Message]) with the particulars.
 
-Product work specifications:
+Product work specifications used:
 
 [C4 Model Diagram](https://c4model.com/#Abstractions)
 
