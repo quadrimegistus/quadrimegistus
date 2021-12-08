@@ -14,6 +14,12 @@ Want to chat about the insanity of quantum mechanics, quantum computing, quantum
 
 Just want some advice or a minimalist consultation? Shoot me an [email](mailto:weshatley@gmail.com?subject=[GitHub%20Message]) with the particulars.
 
+Product work specifications:
+https://c4model.com/#Abstractions
+https://swagger.io/specification/
+https://www.dmtf.org/standards/redfish
+https://www.odata.org/documentation/
+
 ![](https://github-readme-stats.vercel.app/api?username=parallelam&show_icons=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parallelam&layout=compact)
 
 <!--
