@@ -16,7 +16,7 @@ Just want some advice or a minimalist consultation? Shoot me an [email](mailto:w
 
 Product work specifications used:
 
-[C4 Model Diagram](https://c4model.com/#Abstractions)
+[C4 Model Diagraming](https://c4model.com/#Abstractions)
 
 [OpenAPI 3.0](https://swagger.io/specification/)
 
