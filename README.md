@@ -24,6 +24,8 @@ Product work specifications used:
 
 [OData Protocol 4.01](https://www.odata.org/documentation/)
 
+[Unified Modeling Language 2.5.1](https://www.omg.org/spec/UML/)
+
 ![](https://github-readme-stats.vercel.app/api?username=parallelam&show_icons=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parallelam&layout=compact)
 
 <!--
