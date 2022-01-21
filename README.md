@@ -1,10 +1,8 @@
-# ~~Hello there little hobbits!~~ 
-
-## I mean, uhh, hello prospective collaborator / contract maker / seeker of the One Ring.
+## Hello prospective collaborator / contract maker / seeker of the One Ring.
 
 My name is Wesley Hatley, but I go by Wes. I'm the owner of 2DSE, a for hire software engineering firm. Find us on LinkedIn.
 
-We're a jack of all trades with software engineering. We primarily write server side code with Node, Java with Spring Boot, and Ruby on Rails. In addition, we also work front end, mostly with React, and to a lesser extent with Vue, Angular and jQuery.
+We're a jack of all trades with software engineering. We primarily write systems code with Node, Java with Spring Boot, and Ruby on Rails. In addition, we also work front end, mostly with React, and to a lesser extent with Vue, Angular and jQuery.
 
 Like the repositories, but want to see more high level application/database architecting? Check out this [Repository](https://github.com/parallelam/ArchitectPortfolio) or this [Google Drive](https://drive.google.com/drive/folders/1RwszXnoVjbXo6oje_YAMoC6-HKbxRHim?usp=sharing).
 
