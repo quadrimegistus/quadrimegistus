@@ -1,4 +1,4 @@
-Specification Proficiencies:
+Specification Preferences:
 
 Diagrams: [C4 Model](https://c4model.com/#Abstractions)
 
@@ -27,6 +27,8 @@ Runtime: [Node LTS](https://nodejs.org/en/)
 UI/UX: [React](https://reactjs.org/docs/getting-started.html)
 
 ![](https://github-readme-stats.vercel.app/api?username=quadrimegistus&show_icons=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quadrimegistus&layout=compact)
+
+- 📫 How to reach me: quadrimegistus@gmail.com
 
 <!--
 **parallelam/parallelam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
