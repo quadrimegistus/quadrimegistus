@@ -10,7 +10,7 @@ Product work specifications used:
 
 [Unified Modeling Language 2.5.1](https://www.omg.org/spec/UML/)
 
-![](https://github-readme-stats.vercel.app/api?username=parallelam&show_icons=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parallelam&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=quadrimegistus&show_icons=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quadrimegistus&layout=compact)
 
 <!--
 **parallelam/parallelam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
