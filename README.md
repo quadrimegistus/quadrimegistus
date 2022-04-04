@@ -1,14 +1,30 @@
-Product work specifications used:
+Specification Proficiencies:
 
-[C4 Model Diagraming](https://c4model.com/#Abstractions)
+Diagrams: [C4 Model](https://c4model.com/#Abstractions)
 
-[OpenAPI 3.0](https://swagger.io/specification/)
+Logic (Application): [OpenAPI 3.0](https://swagger.io/specification/)
 
-[Redfish 1.4.1](https://www.dmtf.org/standards/redfish)
+Logic (Server): [Redfish 1.4.1](https://www.dmtf.org/standards/redfish)
 
-[OData Protocol 4.01](https://www.odata.org/documentation/)
+Logic (Data Store): [OData Protocol 4.01](https://www.odata.org/documentation/)
 
-[Unified Modeling Language 2.5.1](https://www.omg.org/spec/UML/)
+Logic (OOP): [Unified Modeling Language 2.5.1](https://www.omg.org/spec/UML/)
+
+Technology Preferences:
+
+Logic (Strongly Typed): [TypeScript](https://www.typescriptlang.org/docs/)
+
+SQL: [PostgreSQL](https://www.postgresql.org/docs/) 
+
+SQL Versioning: [Flyway](https://flywaydb.org/documentation/)
+
+ORM: [Sequelize](https://sequelize.org/docs/v6/getting-started/) && [Sequelize-TypeScript](https://www.npmjs.com/package/sequelize-typescript)
+
+NoSQL: [MongoDB](https://www.mongodb.com/docs/)
+
+Runtime: [Node LTS](https://nodejs.org/en/)
+
+UI/UX: [React](https://reactjs.org/docs/getting-started.html)
 
 ![](https://github-readme-stats.vercel.app/api?username=quadrimegistus&show_icons=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quadrimegistus&layout=compact)
 
