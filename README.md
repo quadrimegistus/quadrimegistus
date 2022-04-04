@@ -30,6 +30,8 @@ Runtime: [Node LTS](https://nodejs.org/en/) && JVM
 
 UI/UX: [React](https://reactjs.org/docs/getting-started.html)
 
+Headless-CMS: [Puppeteer](https://github.com/puppeteer/puppeteer)
+
 Hosting: [Heroku](https://www.heroku.com/)
 
 ![](https://github-readme-stats.vercel.app/api?username=quadrimegistus&show_icons=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quadrimegistus&layout=compact)
