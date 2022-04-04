@@ -34,6 +34,12 @@ Headless-CMS: [Puppeteer](https://github.com/puppeteer/puppeteer)
 
 Hosting: [Heroku](https://www.heroku.com/)
 
+Iteration Strategies:
+
+Product Workflow: [Atlassian Jira](https://www.atlassian.com/software/jira) && [Atlassian Confluence](https://www.atlassian.com/software/confluence)
+
+Software Development Lifecycle: Scrum && Agile Development && Waterfall Methodology
+
 ![](https://github-readme-stats.vercel.app/api?username=quadrimegistus&show_icons=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quadrimegistus&layout=compact)
 
 - 📫 How to reach me: quadrimegistus@gmail.com
