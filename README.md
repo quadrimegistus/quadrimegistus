@@ -1,4 +1,4 @@
-Specification Preferences:
+#Specification Preferences:
 
 Diagrams: [C4 Model](https://c4model.com/#Abstractions)
 
@@ -12,7 +12,7 @@ Logic (OOP Strategy): [Unified Modeling Language 2.5.1](https://www.omg.org/spec
 
 Feature Development: [Gherkin Syntax](https://cucumber.io/docs/gherkin/reference/)
 
-Technology Preferences:
+#Technology Preferences:
 
 Logic (Strongly Typed): [TypeScript](https://www.typescriptlang.org/docs/) && [Open JDK](https://openjdk.java.net/)
 
@@ -34,7 +34,7 @@ Headless-CMS: [Puppeteer](https://github.com/puppeteer/puppeteer)
 
 Hosting: [Heroku](https://www.heroku.com/)
 
-Iteration Strategies:
+#Iteration Strategies:
 
 Product Workflow: [Atlassian Jira](https://www.atlassian.com/software/jira) && [Atlassian Confluence](https://www.atlassian.com/software/confluence)
 
