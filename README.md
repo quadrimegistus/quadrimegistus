@@ -40,7 +40,11 @@ Product Workflow: [Atlassian Jira](https://www.atlassian.com/software/jira) && [
 
 Software Development Lifecycle: Scrum && Agile Development && Waterfall Methodology
 
+# GH Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=quadrimegistus&show_icons=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quadrimegistus&layout=compact)
+
+# Contact:
 
 - 📫 How to reach me: quadrimegistus@gmail.com
 
