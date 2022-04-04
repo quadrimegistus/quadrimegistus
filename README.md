@@ -12,7 +12,7 @@ Logic (OOP): [Unified Modeling Language 2.5.1](https://www.omg.org/spec/UML/)
 
 Technology Preferences:
 
-Logic (Strongly Typed): [TypeScript](https://www.typescriptlang.org/docs/)
+Logic (Strongly Typed): [TypeScript](https://www.typescriptlang.org/docs/) && [Open JDK](https://openjdk.java.net/)
 
 SQL: [PostgreSQL](https://www.postgresql.org/docs/) 
 
@@ -24,7 +24,7 @@ NoSQL: [MongoDB](https://www.mongodb.com/docs/)
 
 ODM: [Mongoose](https://mongoosejs.com/docs/guide.html) && [TypeGoose](https://typegoose.github.io/typegoose/docs/guides/quick-start-guide)
 
-Runtime: [Node LTS](https://nodejs.org/en/)
+Runtime: [Node LTS](https://nodejs.org/en/) && JVM
 
 UI/UX: [React](https://reactjs.org/docs/getting-started.html)
 
