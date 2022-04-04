@@ -22,6 +22,8 @@ ORM: [Sequelize](https://sequelize.org/docs/v6/getting-started/) && [Sequelize-T
 
 NoSQL: [MongoDB](https://www.mongodb.com/docs/)
 
+ODM: [Mongoose](https://mongoosejs.com/docs/guide.html) && [TypeGoose](https://typegoose.github.io/typegoose/docs/guides/quick-start-guide)
+
 Runtime: [Node LTS](https://nodejs.org/en/)
 
 UI/UX: [React](https://reactjs.org/docs/getting-started.html)
