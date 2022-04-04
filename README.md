@@ -34,6 +34,8 @@ UI/UX: [React](https://reactjs.org/docs/getting-started.html)
 
 Headless-CMS: [Puppeteer](https://github.com/puppeteer/puppeteer)
 
+Message Bus: [Rabbit MQ](https://www.rabbitmq.com/documentation.html)
+
 Hosting: [Heroku](https://www.heroku.com/)
 
 # Iteration Strategies:
