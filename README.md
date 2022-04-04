@@ -40,7 +40,7 @@ Hosting: [Heroku](https://www.heroku.com/)
 
 Product Workflow: [Atlassian Jira](https://www.atlassian.com/software/jira) && [Atlassian Confluence](https://www.atlassian.com/software/confluence)
 
-Software Development Lifecycle: Scrum && Agile Development && Waterfall Methodology
+Software Development Lifecycle: [Scrum](https://www.atlassian.com/agile/scrum) && [Agile Development](https://www.atlassian.com/agile/manifesto) && [Waterfall Methodology](https://www.projectmanager.com/guides/waterfall-methodology)
 
 # Metrics:
 
