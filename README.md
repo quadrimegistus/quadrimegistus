@@ -8,7 +8,9 @@ Logic (Server): [Redfish 1.4.1](https://www.dmtf.org/standards/redfish)
 
 Logic (Data Store): [OData Protocol 4.01](https://www.odata.org/documentation/)
 
-Logic (OOP): [Unified Modeling Language 2.5.1](https://www.omg.org/spec/UML/)
+Logic (OOP Strategy): [Unified Modeling Language 2.5.1](https://www.omg.org/spec/UML/)
+
+Feature Development: [Gherkin Syntax](https://cucumber.io/docs/gherkin/reference/)
 
 Technology Preferences:
 
