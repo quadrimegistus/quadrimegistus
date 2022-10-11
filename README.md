@@ -1,7 +1,5 @@
 # Curriculum Vitae:
 
-https://quadrimegistus.github.io/
-
 # Specification Preferences:
 
 Diagrams: [C4 Model](https://c4model.com/#Abstractions)
