@@ -1,5 +1,7 @@
 # Curriculum Vitae:
 
+I serve in Lead Engineer, Principal Engineer and Development Manager roles.
+
 # Specification Preferences:
 
 Diagrams: [C4 Model](https://c4model.com/#Abstractions)
@@ -50,11 +52,11 @@ Software Development Lifecycle: [Scrum](https://www.atlassian.com/agile/scrum) &
 
 # Shipped Products:
 
-[Lenovo's Device as a Service](https://www.lenovo.com/us/en/daas/)
+[Lenovo's Device as a Service](https://www.lenovo.com/us/en/daas/) - I served as the Principal Engineer.
 
-[The Good Wool Home](https://thegoodwoolhome.com/)
+[The Good Wool Home](https://thegoodwoolhome.com/) - I served as the Development Manager.
 
-[FlexGen Power Systems](https://flexgen.com/)
+[FlexGen Power Systems](https://flexgen.com/) - I served as a Lead Engineer.
 
 # Contact:
 
