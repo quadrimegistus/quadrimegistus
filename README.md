@@ -1,6 +1,6 @@
 # Curriculum Vitae:
 
-I serve in Lead Engineer, Principal Engineer and Development Manager roles.
+I serve in Lead Engineer, Principal Engineer and Development Manager positions.
 
 # Specification Preferences:
 
