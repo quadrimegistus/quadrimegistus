@@ -48,9 +48,13 @@ Product Workflow: [Atlassian Jira](https://www.atlassian.com/software/jira) && [
 
 Software Development Lifecycle: [Scrum](https://www.atlassian.com/agile/scrum) && [Agile Development](https://www.atlassian.com/agile/manifesto) && [Waterfall Methodology](https://www.projectmanager.com/guides/waterfall-methodology)
 
-# Metrics:
+# Shipped Products:
 
-![](https://github-readme-stats.vercel.app/api?username=quadrimegistus&show_icons=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quadrimegistus&layout=compact)
+[Lenovo's Device as a Service](https://www.lenovo.com/us/en/daas/)
+
+[The Good Wool Home](https://thegoodwoolhome.com/)
+
+[FlexGen Power Systems](https://flexgen.com/)
 
 # Contact:
 
