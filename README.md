@@ -16,7 +16,7 @@ Logic (Inline-Annotations): [JSDocs](https://jsdoc.app/)
 
 Feature Development: [Gherkin Syntax](https://cucumber.io/docs/gherkin/reference/)
 
-Standardization: [ISO](https://www.iso.org/home.html)
+Standardization Strategy: [ISO](https://www.iso.org/home.html)
 
 # Technology Preferences:
 
