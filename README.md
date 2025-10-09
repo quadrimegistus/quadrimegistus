@@ -4,7 +4,7 @@ Owner of LLC: 2DSE (Two Dimensional Software Engineering).
 
 I serve in Lead Software Engineer, Principal Software Engineer and Software Development Manager positions.
 
-If you have arrived on my GitHub main page looking for the repository detailing proof of concept for Predetermination / Intelligent Design, please use the contact information at the bottom to reach me. The repository has been made private for the time being.
+If you have arrived on my GitHub main page looking for the repository detailing proof of concept for Predetermination / Intelligent Design, please use the contact information at the bottom to reach me. The repository has been made private per good counsel.
 
 # Specification Preferences:
 
