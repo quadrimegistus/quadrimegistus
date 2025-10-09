@@ -58,7 +58,7 @@ Software Development Lifecycle: [Scrum](https://www.atlassian.com/agile/scrum) &
 
 [FlexGen Power Systems](https://flexgen.com/) - I served as a Lead Engineer.
 
-[UpWork](https://www.upwork.com/freelancers/~0113521d8bf262c9fb?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~0113521d8bf262c9fb%2Fprofile) - Freelance Principal Software Engineer with 20+ successfully completed contracts with 5 star reviews (you must be signed in to UpWork to view my profile on UpWork).
+[UpWork](https://www.upwork.com/freelancers/~0113521d8bf262c9fb?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~0113521d8bf262c9fb%2Fprofile) - Principal Software Engineer with 20+ successfully completed contracts (you must be signed in to UpWork to view my profile on UpWork).
 
 # Contact:
 
