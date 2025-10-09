@@ -2,7 +2,7 @@
 
 I serve in Lead Engineer, Principal Engineer and Development Manager positions.
 
-If you have arrived on my GitHub main page looking for the repository detailing proof of concept for Predetermination / Intelligent Design, please use the contact information below to reach me. The repository has been made private for legal reasons.
+If you have arrived on my GitHub main page looking for the repository detailing proof of concept for Predetermination / Intelligent Design, please use the contact information at the bottom to reach me. The repository has been made private for legal reasons.
 
 # Specification Preferences:
 
