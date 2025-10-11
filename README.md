@@ -56,11 +56,11 @@ Software Development Lifecycle: [Scrum](https://www.atlassian.com/agile/scrum) &
 
 # Shipped Products:
 
-[Lenovo's Device as a Service](https://www.lenovo.com/us/en/daas/) - I served as the Principal Engineer.
+[Lenovo's Device as a Service](https://www.lenovo.com/us/en/daas/) - I served as the Principal Software Engineer.
 
-[The Good Wool Home](https://thegoodwoolhome.com/) - I served as the Development Manager.
+[The Good Wool Home](https://thegoodwoolhome.com/) - I served as the Software Development Manager.
 
-[FlexGen Power Systems](https://flexgen.com/) - I served as a Lead Engineer.
+[FlexGen Power Systems](https://flexgen.com/) - I served as a Lead Software Engineer.
 
 [UpWork](https://www.upwork.com/freelancers/~0113521d8bf262c9fb?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~0113521d8bf262c9fb%2Fprofile) - Principal Software Engineer with 20+ successfully completed contracts (you must be signed in to UpWork to view my profile on UpWork).
 
