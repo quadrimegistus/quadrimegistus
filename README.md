@@ -67,7 +67,7 @@ Software Development Lifecycle: [Scrum](https://www.atlassian.com/agile/scrum) &
 # Contact:
 
 - 📫 How to reach me: quadrimegistus@gmail.com
-- c: 1-704-692-0036
+- call/text: 1-704-692-0036
 
 <!--
 **parallelam/parallelam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
