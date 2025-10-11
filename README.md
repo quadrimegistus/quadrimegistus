@@ -6,7 +6,7 @@ I serve in Lead Software Engineer, Principal Software Engineer and Software Deve
 
 If you have arrived on my GitHub main page looking for the repository detailing proof of concept for Predetermination / Intelligent Design, please use the contact information at the bottom to reach me. The repository has been made private per good counsel.
 
-# Specification Preferences:
+# Default Specifications:
 
 Diagrams: [C4 Model](https://c4model.com/#Abstractions)
 
