@@ -24,7 +24,7 @@ Feature Development: [Gherkin Syntax](https://cucumber.io/docs/gherkin/reference
 
 Standardization Strategy: [ISO](https://www.iso.org/home.html)
 
-# Technology Preferences:
+# Default Mobile / Web Development Technologies:
 
 Logic (Strongly Typed): [TypeScript](https://www.typescriptlang.org/docs/) && [Open JDK](https://openjdk.java.net/)
 
