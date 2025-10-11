@@ -48,7 +48,7 @@ Message Bus: [Rabbit MQ](https://www.rabbitmq.com/documentation.html)
 
 Hosting: [Heroku](https://www.heroku.com/)
 
-# Iteration Strategies:
+# Default Iteration Strategies:
 
 Product Workflow: [Atlassian Jira](https://www.atlassian.com/software/jira) && [Atlassian Confluence](https://www.atlassian.com/software/confluence)
 
