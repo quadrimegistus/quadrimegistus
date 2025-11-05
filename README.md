@@ -64,6 +64,8 @@ Software Development Lifecycle: [Scrum](https://www.atlassian.com/agile/scrum) &
 
 [FlexGen Power Systems](https://flexgen.com/) - I served as a Lead Software Engineer.
 
+[DashReel](https://www.dashreel.com/) - I served as the Chief Technology Officer.
+
 [UpWork](https://www.upwork.com/fl/weshatley) - Principal Software Engineer with 20+ successfully completed contracts and a 100% completion rate.
 
 # Contact:
