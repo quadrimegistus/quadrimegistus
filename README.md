@@ -4,6 +4,8 @@ Owner of LLC: 2DSE (Two Dimensional Software Engineering).
 
 I serve in Lead Software Engineer, Principal Software Engineer, Software Development Manager and Chief Technology Officer positions.
 
+I am a completed understanding of Computer Science, and I have mastered the Software Development Lifecycle.
+
 # Default Specifications:
 
 Diagrams: [C4 Model](https://c4model.com/#Abstractions)
