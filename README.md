@@ -18,7 +18,9 @@ Logic (Data Store): [OData Protocol 4.01](https://www.odata.org/documentation/)
 
 Logic (OOP Strategy): [Unified Modeling Language 2.5.1](https://www.omg.org/spec/UML/)
 
-Logic (Inline-Annotations): [JSDocs](https://jsdoc.app/) 
+Logic (Inline-Annotations): [JSDocs](https://jsdoc.app/)
+
+Versioning (Semantic Versioning): [SemVer](https://semver.org/)
 
 Feature Development: [Gherkin Syntax](https://cucumber.io/docs/gherkin/reference/)
 
