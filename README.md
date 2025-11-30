@@ -36,9 +36,9 @@ Software Development Lifecycle: [Scrum](https://www.atlassian.com/agile/scrum) &
 
 # Shipped Products:
 
-[Lenovo's Device as a Service](https://www.lenovo.com/us/en/daas/) - I served as the Principal Software Engineer.
+[Lenovo's Device as a Service](https://www.lenovo.com/us/en/daas/) - I served as a Principal Software Engineer.
 
-[The Good Wool Home](https://thegoodwoolhome.com/) - I served as the Software Engineer Manager.
+[The Good Wool Home](https://thegoodwoolhome.com/) - I served as a Software Engineer Manager.
 
 [FlexGen Power Systems](https://flexgen.com/) - I served as a Lead Software Engineer.
 
