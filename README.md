@@ -46,6 +46,10 @@ Software Development Lifecycle: [Scrum](https://www.atlassian.com/agile/scrum) &
 
 [UpWork](https://www.upwork.com/fl/weshatley) - Principal Software Engineer with 20+ successfully completed contracts and a 100% completion rate.
 
+# My Artificial Intelligence GitHub Showcase:
+
+https://github.com/weshatleyfl
+
 # Contact:
 
 - 📫: quadrimegistus@gmail.com
