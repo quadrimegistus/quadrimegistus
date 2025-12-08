@@ -49,6 +49,7 @@ Software Development Lifecycle: [Scrum](https://www.atlassian.com/agile/scrum) &
 # Contact:
 
 - 📫: quadrimegistus@gmail.com
+- 📫: weshatley@gmail.com
 - call/text: 1-704-692-0036
 
 <!--
