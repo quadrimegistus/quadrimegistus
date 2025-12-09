@@ -55,6 +55,7 @@ https://github.com/weshatleyfl
 - 📫: quadrimegistus@gmail.com
 - 📫: weshatley@gmail.com
 - call/text: 1-704-692-0036
+- [LinkedIn](https://www.linkedin.com/in/wesley-hatley-37543b389/)
 
 <!--
 **parallelam/parallelam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
