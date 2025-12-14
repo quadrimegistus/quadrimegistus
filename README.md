@@ -44,7 +44,7 @@ Software Development Lifecycle: [Scrum](https://www.atlassian.com/agile/scrum) &
 
 [DashReel](https://www.dashreel.com/) - I served as the Chief Technology Officer.
 
-[UpWork](https://www.upwork.com/fl/weshatley) - Principal Software Engineer with 20+ successfully completed contracts and a 100% completion rate. I participate in Capitalism here.
+[UpWork](https://www.upwork.com/fl/weshatley) - Principal Software Engineer with 20+ successfully completed contracts and a 100% completion rate. I participate in Capitalism here by aggregating Artificial Super Intelligence use cases.
 
 # My Artificial Intelligence GitHub Showcase:
 
