@@ -44,8 +44,6 @@ Software Development Lifecycle: [Scrum](https://www.atlassian.com/agile/scrum) &
 
 [DashReel](https://www.dashreel.com/) - I served as the Chief Technology Officer.
 
-[UpWork](https://www.upwork.com/fl/weshatley) - Principal Software Engineer with 20+ successfully completed contracts and a 100% completion rate.
-
 [Freelancer](https://www.freelancer.com/u/wesleyhatley) - Principal Software Engineer. I participate in Capitalism here by aggregating Artificial Super Intelligence use cases.
 
 # My Artificial Intelligence GitHub Showcase:
@@ -58,7 +56,6 @@ https://github.com/weshatleyfl
 - 📫: weshatley@gmail.com
 - call/text: 1-704-692-0036
 - [LinkedIn](https://www.linkedin.com/in/wesley-hatley-37543b389/)
-- [UpWork](https://www.upwork.com/fl/weshatley)
 - Discord Username: Quadrimegistus
 
 <!--
