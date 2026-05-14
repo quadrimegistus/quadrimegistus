@@ -46,10 +46,6 @@ Software Development Lifecycle: [Scrum](https://www.atlassian.com/agile/scrum) &
 
 [Freelancer](https://www.freelancer.com/u/wesleyhatley) - Principal Software Engineer. I participate in Capitalism here by aggregating Artificial Super Intelligence use cases.
 
-# My Artificial Intelligence GitHub Showcase:
-
-https://github.com/weshatleyfl
-
 # Contact:
 
 - 📫: quadrimegistus@gmail.com
