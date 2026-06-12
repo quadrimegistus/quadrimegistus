@@ -6,6 +6,8 @@ I serve in Lead Software Engineer, Principal Software Engineer, Software Develop
 
 I am a completed understanding of Computer Science, and I have mastered the Software Development Lifecycle. I am the best in the world at what I do.
 
+I studied at Wake Technical College and the University of North Carolina at Chapel Hill.
+
 # Default Specifications:
 
 Diagrams: [C4 Model](https://c4model.com/#Abstractions)
