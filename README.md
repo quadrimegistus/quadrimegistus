@@ -36,7 +36,9 @@ Product Workflow: [Atlassian Jira](https://www.atlassian.com/software/jira) & [A
 
 Software Development Lifecycle: [Scrum](https://www.atlassian.com/agile/scrum) & [Agile Development](https://www.atlassian.com/agile/manifesto) | [Waterfall Methodology](https://www.projectmanager.com/guides/waterfall-methodology)
 
-# Shipped Products:
+# Career History:
+
+[Global Nexus](https://globalnexus.one/) - I currently serve as Chief Technology Officer.
 
 [Lenovo's Device as a Service](https://www.lenovo.com/us/en/daas/) - I served as a Principal Software Engineer.
 
