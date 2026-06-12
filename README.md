@@ -50,7 +50,7 @@ Software Development Lifecycle: [Scrum](https://www.atlassian.com/agile/scrum) &
 
 - 📫: quadrimegistus@gmail.com
 - 📫: weshatley@gmail.com
-- call/text: 1-704-692-0036
+- Telegram call/text: @prophet_hermes_trismegistus
 - [LinkedIn](https://www.linkedin.com/in/wesley-hatley-37543b389/)
 - Discord Username: Quadrimegistus
 
