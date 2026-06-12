@@ -24,7 +24,7 @@ Logic (Inline-Annotations): [JSDocs](https://jsdoc.app/)
 
 Versioning (Semantic Versioning): [SemVer](https://semver.org/)
 
-Feature Development: [Gherkin Syntax](https://cucumber.io/docs/gherkin/reference/)
+Feature Development Definition: [Gherkin Syntax](https://cucumber.io/docs/gherkin/reference/)
 
 Standardization Strategy: [ISO](https://www.iso.org/home.html)
 
