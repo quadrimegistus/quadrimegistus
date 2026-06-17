@@ -24,6 +24,8 @@ Logic (Inline-Annotations): [JSDocs](https://jsdoc.app/)
 
 Versioning (Semantic Versioning): [SemVer](https://semver.org/)
 
+CSS Framework: [Tailwind >= 4.3](https://tailwindcss.com/)
+
 Feature Development Definition: [Gherkin Syntax](https://cucumber.io/docs/gherkin/reference/)
 
 Standardization Strategy: [ISO](https://www.iso.org/home.html)
