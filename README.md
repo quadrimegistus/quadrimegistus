@@ -10,7 +10,7 @@ I studied at Wake Technical College and the University of North Carolina at Chap
 
 # Default Specifications:
 
-Diagrams: [C4 Model](https://c4model.com/#Abstractions)
+Software Architecture Visualization Diagrams: [C4 Model](https://c4model.com/#Abstractions)
 
 Logic (Application): [OpenAPI >= 3.0](https://swagger.io/specification/)
 
